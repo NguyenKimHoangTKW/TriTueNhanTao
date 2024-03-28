@@ -1,0 +1,16 @@
+E:\@ University Documents\TÀI LIỆU NĂM 2 HK2\Tri Tue Nhan Tao\ĐỒ ÁN\BAO CAO Do an Tri Tue Nhan Tao\Source Code\Caro\bin\Debug\Giao_Dien.exe.config
+D:\TriTueNhanTao\Source Code\Caro\obj\Debug\Giao_Dien.csproj.AssemblyReference.cache
+D:\TriTueNhanTao\Source Code\Caro\obj\Debug\Giao_Dien.About.resources
+D:\TriTueNhanTao\Source Code\Caro\obj\Debug\Giao_Dien.Form1.resources
+D:\TriTueNhanTao\Source Code\Caro\obj\Debug\Giao_Dien.NewGame.resources
+D:\TriTueNhanTao\Source Code\Caro\obj\Debug\Giao_Dien.Properties.Resources.resources
+D:\TriTueNhanTao\Source Code\Caro\obj\Debug\Giao_Dien.Support.resources
+D:\TriTueNhanTao\Source Code\Caro\obj\Debug\Giao_Dien.csproj.GenerateResource.cache
+D:\TriTueNhanTao\Source Code\Caro\obj\Debug\Giao_Dien.csproj.CoreCompileInputs.cache
+D:\TriTueNhanTao\Source Code\Caro\bin\Debug\Giao_Dien.exe.config
+D:\TriTueNhanTao\Source Code\Caro\bin\Debug\Giao_Dien.exe
+D:\TriTueNhanTao\Source Code\Caro\bin\Debug\Giao_Dien.pdb
+D:\TriTueNhanTao\Source Code\Caro\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\TriTueNhanTao\Source Code\Caro\obj\Debug\Giao_Dien.csproj.Up2Date
+D:\TriTueNhanTao\Source Code\Caro\obj\Debug\Giao_Dien.exe
+D:\TriTueNhanTao\Source Code\Caro\obj\Debug\Giao_Dien.pdb
